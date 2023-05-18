@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradebook.App.Web", "Gradebook.App.Web\Gradebook.App.Web.csproj", "{7637C175-1A52-42C0-BBF9-2AD8A9476196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradebook.App.Api", "Gradebook.App.Api\Gradebook.App.Api.csproj", "{5362D9B5-EF1C-44A3-AE7A-A9A948C55E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7637C175-1A52-42C0-BBF9-2AD8A9476196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7637C175-1A52-42C0-BBF9-2AD8A9476196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7637C175-1A52-42C0-BBF9-2AD8A9476196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7637C175-1A52-42C0-BBF9-2AD8A9476196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5362D9B5-EF1C-44A3-AE7A-A9A948C55E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5362D9B5-EF1C-44A3-AE7A-A9A948C55E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5362D9B5-EF1C-44A3-AE7A-A9A948C55E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5362D9B5-EF1C-44A3-AE7A-A9A948C55E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A0A4D4-087E-48C6-86E0-37A241DDF112}
+	EndGlobalSection
+EndGlobal
